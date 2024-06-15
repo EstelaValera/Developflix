@@ -31,6 +31,6 @@ function filtrarXgenero(generoId, contenedor) {
     }
 }
 
-filtrarXgenero(28, accion)
-filtrarXgenero(53, thriller)
-filtrarXgenero(12, aventura)
+filtrarXgenero(28, accion);
+filtrarXgenero(53, thriller);
+filtrarXgenero(12, aventura);
